@@ -2,6 +2,10 @@
 
 Currently tested with Hugo v0.150.0
 
+
+https://github.com/user-attachments/assets/99ffbda5-b688-48f2-bed6-e9a3ee78ea87
+
+
 ## About Us
 
 PsyCN2None (pronounced "second to none") is a dedicated nonprofit organization comprised of a small but elite team of psychology PhD applicants. We are committed to supporting undergraduate and master's students from resource-scarce backgrounds, in bridging the information gap that creates educational inequalities.
