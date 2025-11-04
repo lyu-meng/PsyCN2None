@@ -1,13 +1,13 @@
 name = "PsyCN2None"
 license = "MIT"
-licenselink = "https://github.com/mmmenglyu/PsyCN2None/blob/main/LICENSE"
+licenselink = "https://github.com/lyu-meng/PsyCN2None/blob/main/LICENSE"
 description = "Nonprofit organization website supporting psychology PhD applicants"
-homepage = "https://github.com/mmmenglyu/PsyCN2None"
+homepage = "https://github.com/lyu-meng/PsyCN2None"
 tags = ['personal', 'simple', 'bootstrap', 'font-awesome', 'portfolio']
 features = ['bootstrap','responsive','scss','autoprefixer']
 min_version = "0.60.0"
 demosite = "https://compassionate-kepler-de5af1.netlify.app/"
 
 [author]
-  name = "mmmenglyu"
-  homepage = "https://github.com/mmmenglyu"
+  name = "lyu-meng"
+  homepage = "https://github.com/lyu-meng"

@@ -44,8 +44,8 @@ To run this website locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mmmenglyu/PsyCN2None.git
-cd PsyCN2None/exampleSite
+git clone https://github.com/lyu-meng/PsyCN2None.git
+cd PsyCN2None
 
 # Install dependencies
 npm install
