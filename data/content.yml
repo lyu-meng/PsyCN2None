@@ -83,7 +83,7 @@ funfacts:
 
 ############################# portfolio ################################
 portfolio:
-  enable: true
+  enable: false
   title: 'OUR PROGRAMS'
   portfolio_list:
     - name: Mentors
