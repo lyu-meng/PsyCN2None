@@ -3,7 +3,7 @@
 Currently tested with Hugo v0.150.0
 
 
-https://github.com/user-attachments/assets/99ffbda5-b688-48f2-bed6-e9a3ee78ea87
+https://github.com/user-attachments/assets/cdd9ed56-e525-433e-bf6a-79c2bc49f059
 
 
 ## About Us
