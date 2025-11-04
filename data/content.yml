@@ -1,0 +1,101 @@
+########################## hero area ##########################
+hero:
+  title: "We're PsyCN2None"
+
+  # animated text loop
+  occupations:
+    - 'Second to None'
+    - 'Psychology PhD Pathways'
+    - 'Breaking Barriers'
+    - 'Peer Guidance'
+
+  # hero background image
+  bg_image: 'images/background1.jpg'
+  # optional mobile breakpoint background
+  # mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/profile2.jpg'
+  title: 'THIS IS US'
+  content: Hi there! We are PsyCN2None, pronounced as "second to none". We are a small, peer-driven non-profit initiative supporting applicants from Mainland China—especially those facing information gaps—to apply confidently to U.S. Psychology PhD programs. We particularly encourage first-generation students and under-resourced applicants to present themselves with clarity and confidence. Through workshops, resources, and one-on-one guidance, we help you navigate the process from preparation to interviews. If you have any questions feel free to reach out [by email](#contact)! Application for 25-26 cycle is closed. Stay tuned for updates on our next cycle!
+  button:
+    enable: true
+    label: ' GET MORE PhD TIPS'
+    link: #
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'OUR JOURNEY'
+  experience_list:
+    - name: 2021 - 2022
+      company: Founded by Huan, Led by Amber
+      duration: 'Launch & Growth'
+      content: The project was created to reduce inequity in access to PhD application resources.
+
+
+    - name: 2023 - 2024
+      company: Led by Meng, Yilin, Junsong, Yichen, Weifang, Kun, Qi, Jing, Yinbo, and LY
+      duration: 'Expansion & Deepening'
+      content: Mentor team expanded; stronger peer support network built.
+
+    - name: '2025'
+      company: Led by Qingyi, Ying, Nalan, Wei, Yinglun, Janice and Xinquan
+      duration: 'Collaborative Growth'
+      content: Successive mentors carried the mission forward.
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'WHERE WE PUT OUR ENERGY'
+  showpercent: false
+  skill_list:
+    - name: 'Turning messy drafts into shining CVs & statements (our absolute obsession 💎)'
+      percentage: '100%'
+
+    - name: 'Workshops & webinars: the bread and butter of our program 🍞🧈'
+      percentage: '85%'
+
+    - name: 'Mock interviews: practice until “awkward pause” becomes “confident smile” 😎'
+      percentage: '75%'
+
+    - name: 'Building a community & peer network—because no one should battle grad apps alone 🤝'
+      percentage: '80%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'WORKSHUPOPS HELD'
+      image: 'images/icons/coffee.png'
+      count: '15'
+
+    - name: ' APPLICATION SUPPORTED'
+      image: 'images/icons/web-development.png'
+      count: '22'
+
+    - name: ' OFFERS OF ADMISSION'
+      image: 'images/icons/happy.png'
+      count: '50'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'OUR PROGRAMS'
+  portfolio_list:
+    - name: Mentors
+      image: 'images/portfolio/group1.jpg'
+      # url: https://gohugo.io
+      description: More details are to be added.
+
+    - name: Monthly Workshops
+      image: 'images/portfolio/group2.jpg'
+      url: https://gohugo.io
+      description: One-on-one guidance with tailored feedback on statements, CVs, and interviews.
+
+    - name: Collaboration
+      image: 'images/portfolio/group3.jpg'
+      description: Outreach with ConnectEd; WeChat promotions; growing a supportive peer network.

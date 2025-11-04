@@ -1,0 +1,23 @@
+{
+  "name": "psycn2none",
+  "version": "1.0.0",
+  "repository": "git@github.com:mmmenglyu/PsyCN2None.git",
+  "author": "Meng Lyu",
+  "license": "MIT",
+  "description": "PsyCN2None - Nonprofit organization supporting Chinese psychology PhD applicants",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo --minify",
+    "prettier": "prettier --write ."
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "postcss-cli": "^8.3.1",
+    "prettier": "^2.3.2",
+    "prettier-plugin-go-template": "^0.0.11"
+  },
+  "dependencies": {
+    "hugo-theme-demo-builder": "^1.0.3"
+  }
+}
